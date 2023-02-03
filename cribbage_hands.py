@@ -51,7 +51,7 @@ def number_to_abbreviation(card):
     return face+suit
     
 if __name__ == '__main__':
-    with open('cribbage_results.txt', 'a') as f:
+    with open('cribbage_results.csv', 'a') as f:
         f.write(','.join(['card1','card2','card3','card4','flip','points','fifteens','pairs','runs','flushes','knobs']))
         f.write('\n')
         for hand in itertools.combinations(range(52), 4):
