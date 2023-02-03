@@ -1,6 +1,6 @@
 # CribbageHands
 
-Run `cribbage_hands.py` to generate `cribbage_output.csv`
+Run `cribbage_hands.py` to generate `cribbage_output.csv`, or simply download the output here: https://github.com/Benaou/CribbageHands/releases/download/results/cribbage_results.csv
 
 Cards are notated as **{Card code}{Suit code}**
 
