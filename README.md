@@ -53,7 +53,7 @@ Suit codes:
 | 26 | 0 | 0.000 |
 | 27 | 0 | 0.000 |
 | 28 | 76 | 0.001 |
-| 29 | 4 | 0.000 |
+| 29 | 4 | 0.00003 |
 
 Total number of hands = 12994800 (Choose 4 from 52, and then multiply by 48)
 
